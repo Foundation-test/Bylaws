@@ -5,13 +5,13 @@ _taken from the Forum post by @JayRam https://discuss.erpnext.com/t/foundation-c
 _Please provide your inputs, thoughts and suggestions._
   
   
-The ERPNext Foundation will be primarily run by the ERPNext Foundation Council that will consist of:
+**The ERPNext Foundation will be primarily run by the ERPNext Foundation Council that will consist of:**
 
 - 2 Directors appointed by Frappe Technologies Private Limited
 - 1 CEO (currently nominated by Frappe Technologies Private Limited but the Foundation Council will decide on the Mode of Appointment/Election of, and the tenure of, the CEO
 - 4 Council Members elected by the ERPNext Foundation members.
 
-Each Foundation Member will be eligible to cast the number of votes as specified below:
+**Each Foundation Member will be eligible to cast the number of votes as specified below:**
 
 Number of votes for Foundation Members:
 
